@@ -1,6 +1,6 @@
 # StatsBomb Open Data
 
-Welcome to the StatsBomb Open Data repository.
+Welcome to the StatsBomb Open Data repository. 
 
 StatsBomb are committed to sharing new data and research publicly to enhance understanding of the game of Football. We want to actively encourage new research and analysis at all levels. Therefore we have made certain leagues of StatsBomb Data freely available for public use for research projects and genuine interest in football analytics.
 
